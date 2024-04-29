@@ -1,0 +1,10 @@
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\bin\Debug\Sistema Escolar.exe.config
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\bin\Debug\Sistema Escolar.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\bin\Debug\Sistema Escolar.pdb
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\obj\Debug\Sistema Escolar.csproj.AssemblyReference.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\obj\Debug\Sistema_Escolar.FrmSystem.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\obj\Debug\Sistema_Escolar.Properties.Resources.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\obj\Debug\Sistema Escolar.csproj.GenerateResource.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\obj\Debug\Sistema Escolar.csproj.CoreCompileInputs.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\obj\Debug\Sistema Escolar.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp\projetos\06-Sistema Escolar\Sistema Escolar\Sistema Escolar\obj\Debug\Sistema Escolar.pdb
